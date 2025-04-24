@@ -1,5 +1,5 @@
 <!-- 🧠 Fancy Header -->
-<h1 align="center">Hey there! I'm <span style="color:#38bdf8;">a Passionate Data Scientist</span> 👨‍💻</h1>
+<h1 align="center">Hey there! I'm <span style="color:#38bdf8;">Fahad Haider </span> 👨‍💻</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science GIF" width="75%">
