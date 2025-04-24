@@ -1,5 +1,10 @@
-# Hi 👋, I'm Fahad Haider  
-### Aspiring Data Scientist | Lifelong Learner | Coding Enthusiast
+<h1 align="center">Hi 👋, I'm Fahad Haider</h1>
+<h3 align="center">Aspiring Data Scientist | Lifelong Learner | Coding Enthusiast</h3>
+
+<p align="center">
+  <img src="https://github.com/fahadhaider1/fahadhaider1/assets/your-animated-banner.gif" alt="Fahad Haider Banner" />
+</p>
+
 
 - 🌱 I’m currently learning **Machine Learning, Python, and SQL**
 - 📊 Passionate about data, storytelling, and AI
