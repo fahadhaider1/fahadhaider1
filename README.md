@@ -14,7 +14,7 @@
 
 ## 📫 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/fahad-haider-8435a5173/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white&style=for-the-badge)](https://yourportfolio.com)
 
 ---
