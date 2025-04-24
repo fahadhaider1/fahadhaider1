@@ -1,52 +1,59 @@
-<!-- 👋 Welcome Banner -->
-<h1 align="center">Hi, I'm a Data Scientist 👨‍💻</h1>
+<!-- 🧠 Fancy Header -->
+<h1 align="center">Hey there! I'm <span style="color:#38bdf8;">a Passionate Data Scientist</span> 👨‍💻</h1>
+
 <p align="center">
-  <i>Exploring data, building models, and creating insights</i>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Data Science GIF" width="75%">
 </p>
-
-<!-- 🚀 Animated Hero Section -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80%" alt="Futuristic coding animation" />
-</p>
-
-<!-- 🧠 About Me -->
-### 🧠 About Me
-- 🔬 I love turning data into stories  
-- 📊 Skilled in Python, Pandas, and Machine Learning  
-- 📈 Building projects in Data Visualization and AI  
-
-<!-- 🚀 Let's Connect -->
-### 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/yourusername)
-
-<!-- ⚙️ Tools & Tech -->
-### 🛠️ Tools I Use
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?logo=scikit-learn)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code)
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" width="48%" />
+### 🧬 Who Am I?
+🚀 Data Enthusiast | 📊 Insight Seeker | 🧠 AI Explorer  
+- 🔍 I find patterns in chaos using Python and Machine Learning  
+- 🧹 Love cleaning data and making sense of numbers  
+- 📈 Turning raw data into beautiful stories  
+
+---
+
+### ⚙️ Tech Stack & Tools
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-<!--
-**fahadhaider1/fahadhaider1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 📊 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" width="47%" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛰️ Connect With Me
+<p>
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🎯 Fun Fact
+> _"Data is the new oil, and I love drilling it!"_
+
+---
+
+### 🌐 Portfolio or Blog Coming Soon...
+
