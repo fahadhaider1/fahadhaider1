@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-animated-image-url.gif" alt="banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/fahadhaider1/fahadhaider1/main/assets/banner.gif" alt="Fahad's banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Fahad Haider</h1>
@@ -11,9 +11,9 @@
 ---
 
 - 🌱 I’m currently learning **Machine Learning, Python, and SQL**
-- 📊 Passionate about **data storytelling, AI**, and **problem-solving**
+- 📊 Passionate about **data storytelling and AI**
 - 💬 Ask me about **Pandas**, **NumPy**, or **Data Cleaning**
-- 🎯 2025 Goal: Build real-world end-to-end ML projects
+- 🎯 2025 Goal: Build real-world ML projects
 
 ---
 
@@ -24,7 +24,7 @@
 
 ---
 
-## 💻 Languages & Tools
+## 🧰 Tools I Use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
@@ -44,8 +44,8 @@
 
 ---
 
-## 🔭 Currently Working On:
-- 🎯 ML mini-projects from Kaggle
-- 📈 Data visualizations with Matplotlib/Seaborn
-- 🌍 Learning APIs & web scraping
+## 🎯 Current Focus
 
+- 💻 ML Projects using real datasets
+- 📈 Data visualization (Matplotlib, Seaborn)
+- 🔄 APIs & web scraping
